@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "放光酸化",
+  "base_artist": "レモネードファクトリー",
+  "createdAt": "2025-12-21T11:39:09.603716Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "放光酸化",
+      "artist": "レモネードファクトリー",
+      "has_synced": false,
+      "path": "select/pl_01_放光酸化_レモネードファクトリー.txt"
+    }
+  ]
+}
